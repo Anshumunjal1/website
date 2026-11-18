@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S.D. Heritage Pride School - Official Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f7f6;
+        }
+        header {
+            background-color: #003366;
+            color: #ffffff;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 16px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #003366;
+            border-bottom: 2px solid #003366;
+            padding-bottom: 5px;
+        }
+        .info-box {
+            background-color: #eef3f7;
+            padding: 15px;
+            border-left: 4px solid #003366;
+            margin: 20px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>S.D. Heritage Pride School</h1>
+        <p>Affiliated to CBSE, New Delhi | Affiliation No: 532070</p>
+    </header>
+
+    <div class="container">
+        <h2>About Our Institution</h2>
+        <p>Welcome to the official website of <strong>S.D. Heritage Pride School</strong>. Managed by S D Memorial Education and Welfare Society, we are a recognized co-educational Senior Secondary institution committed to academic excellence and holistic student development.</p>
+
+        <h2>Accreditation & Recognition</h2>
+        <div class="info-box">
+            <p><strong>Affiliation Body:</strong> Central Board of Secondary Education (CBSE)</p>
+            <p><strong>CBSE Affiliation Number:</strong> 532070</p>
+            <p><strong>Institution Type:</strong> K-12 Senior Secondary School</p>
+        </div>
+
+        <h2>Contact & Administration</h2>
+        <p><strong>Campus Address:</strong> Sikanderpur Road, Sector 85, Gurugram, Haryana - 122004, India</p>
+        <p><strong>Official Email:</strong> info@sdheritagepride.com</p>
+        <p><strong>Phone Number:</strong> +91-8750822220</p>
+    </div>
+
+    <footer>
+        &copy; 2026 S.D. Heritage Pride School. All Rights Reserved.
+    </footer>
+
+</body>
+</html>
